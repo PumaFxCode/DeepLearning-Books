@@ -5,11 +5,13 @@ Deep Learning Books repository & URL
 
 Github Repos:
 
-https://github.com/aymericdamien/TensorFlow-Examples
-
 https://github.com/ageron/handson-ml
 
 https://github.com/ageron/handson-ml2
+
+https://github.com/fastai/courses
+
+https://github.com/aymericdamien/TensorFlow-Examples
 
 https://github.com/mrdbourke/tensorflow-deep-learning
 
@@ -25,15 +27,23 @@ https://github.com/rasbt/deep-learning-book
 
 https://github.com/d2l-ai/d2l-en
 
-https://github.com/MasoudKaviani/freemachinelearninigbooks.git
+https://github.com/endymecy/awesome-deeplearning-resources.git
 
-https://github.com/fastai/courses
+https://github.com/MasoudKaviani/freemachinelearninigbooks.git
 
 https://github.com/udacity/deep-learning
 
 https://github.com/mnielsen/neural-networks-and-deep-learning
 
 https://github.com/oxford-cs-deepnlp-2017/lectures
+
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+
+https://github.com/dennybritz/reinforcement-learning.git
+
+https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms
+
+https://github.com/rlcode/reinforcement-learning
 
 Videos:
 
@@ -89,3 +99,12 @@ Book:
 
 https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
+https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+
+https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
+
+Whitepaper Resources:
+
+http://arxiv.org
+
+https://freecomputerbooks.com/
