@@ -1,3 +1,6 @@
 [submodule "TensorFlow-Examples"]
 	path = TensorFlow-Examples
 	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+[submodule "Deep_Learning/TensorFlow-Examples"]
+	path = Deep_Learning/TensorFlow-Examples
+	url = https://github.com/aymericdamien/TensorFlow-Examples.git
